@@ -1,0 +1,51 @@
+h1 {    
+font-size: 5em;         
+color: #2952A3;     
+font-family: Helvetica;         
+text-align: center;
+} 
+p {     
+font-size: 2em;         
+text-align: center;
+}  
+div {   
+height: 50px;           
+width: 120px;           
+border-color: #6495ED;      
+border-width: 2px;  
+border-style: solid;    
+border-radius: 10px;            
+margin-left: auto;      
+margin-right: auto;
+} 
+a {     
+text-decoration: none;
+} 
+.button {       
+text-align: center;     
+color: #2952a3;         
+font-size: 1em;
+} 
+div:hover {     
+background-color: #FF3300;
+}
+
+#one {          
+background-color: #FF0000;
+}
+#two {          
+background-color: #0000FF;
+float:left;
+}
+#three {        
+background-color: #FFD700;
+margin:auto;
+}
+#four {         
+	background-color: #308014;
+	position: absolute;
+	bottom: 0; left:0;
+	width: 100%;
+	margin: 0;
+	border-radius: 0;
+}
